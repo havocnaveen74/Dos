@@ -1,5 +1,5 @@
-# ddos
-ddos tool
+# dos
+dos tool
 
 usage: ddosnew.py [-h] -t TARGET -fip FAKE_IP -p PORT [-n NUM_THREADS]
 
